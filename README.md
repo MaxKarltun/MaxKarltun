@@ -1,6 +1,6 @@
 # Max Karltun
 
-![preview](https://raw.githubusercontent.com/MaxKarltun/MaxKarltun/main/github/images/preview2.png)
+![preview](https://raw.githubusercontent.com/MaxKarltun/MaxKarltun/main/.github/images/preview2.png)
 
 Hi, I’m **Max Karltun** — a full-stack software engineer, UI builder, and creative technologist..
 
