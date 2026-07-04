@@ -106,7 +106,10 @@ https://github.com/MaxKarltun
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ## Let’s connect
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxKarltun&hide=issues&show_icons=true&rank_icon=github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight)
+
+
 Check out my portfolio and projects to see what I’m building next.
 
 > Building software that looks great, works beautifully, and solves real problems.
