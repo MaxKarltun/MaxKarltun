@@ -110,7 +110,7 @@ https://github.com/MaxKarltun
 ## GitHub Stats
 
 <p align="center">
- https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight&rank_icon=github
+[![trophy](https://github-profile-trophy.vercelame=MaxKarltun&theme=tokyonight](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
