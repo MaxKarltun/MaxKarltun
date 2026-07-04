@@ -1,14 +1,16 @@
 # Max Karltun
 
+![preview2](./github/images/preview2.png)
+
 Hi, I’m **Max Karltun** — a full-stack software engineer, UI builder, and creative technologist..
 
-I design and develop clean, intuitive digital experiences across web, mobile, data, and blockchain. My work blends modern interfaces with smart systems, focusing on performance, usability, and thoughtful product design.
+I design and develop clean, intuitive digital experiences across web, mobile, data, and blockchain. My work blends modern interfaces with smart systems, focusing on performance, usability, and thoughtf
 
 
 
 ## About me
 
-I’m a developer who focuses on building clean, user-friendly mobile and web applications. I have experience with full-stack development, React Native, and Android/iOS apps. I’ve worked on user interfaces, real-time dashboards, and cloud-based apps. I’m especially interested in blockchain and building scalable, modern applications. I’m currently pursuing a Master’s in Information Technology at Nova Southeastern University, where I’m learning more about systems architecture, blockchain, and data engineering. With a background in Psychology and Communications, I bring a user-focused approach to development and aim to create simple, intuitive, and reliable digital experiences. My goal is to build modern apps and platforms that are both high-quality and easy to use.
+I’m a developer who focuses on building clean, user-friendly mobile and web applications. I have experience with full-stack development, React Native, and Android/iOS apps. I’ve worked on user
 
 https://github.com/MaxKarltun
 
