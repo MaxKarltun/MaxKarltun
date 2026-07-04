@@ -107,7 +107,7 @@ https://github.com/MaxKarltun
 
 ## Let’s connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 
 Check out my portfolio and projects to see what I’m building next.
