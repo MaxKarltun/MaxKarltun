@@ -107,10 +107,12 @@ https://github.com/MaxKarltun
 
 ## Let’s connect
 
-[
-![GitHub Stats](https://githubrcel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight
+## GitHub Stats
 
-![Top Languages](https://github-readme-api/top-langs/?username=MaxKarltun&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight&rank_icon=github)
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight&rank_icon=github
+  https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKarltun&layout=compact&theme=tokyonight
+</p>
 
 
 Check out my portfolio and projects to see what I’m building next.
