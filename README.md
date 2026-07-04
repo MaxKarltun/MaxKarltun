@@ -51,6 +51,8 @@ https://github.com/MaxKarltun
 ![Certificates](https://img.shields.io/badge/Certificates-0052CC?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-3B82F6?style=for-the-badge&logo=auth0&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-0A66C2?style=for-the-badge&logo=openssl&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-Digital%20Trust-blueviolet?style=for-the-badge)
+
 
 ## Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
