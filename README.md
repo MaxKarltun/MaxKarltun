@@ -107,9 +107,7 @@ https://github.com/MaxKarltun
 
 ## Let’s connect
 
-[[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight)
-](https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=MaxKarltun
-)
+![GitHub Stats-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight
 
 Check out my portfolio and projects to see what I’m building next.
 
