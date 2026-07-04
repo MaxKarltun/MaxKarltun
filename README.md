@@ -110,8 +110,7 @@ https://github.com/MaxKarltun
 ## GitHub Stats
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight&rank_icon=github
-  https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKarltun&layout=compact&theme=tokyonight
+ https://github-readme-stats.vercel.app/api?username=MaxKarltun&show_icons=true&theme=tokyonight&rank_icon=github
 </p>
 
 
