@@ -1,6 +1,6 @@
 # Max Karltun
 
-Hi, I’m **Max Karltun** — a full-stack software engineer, UI builder, and creative technologist.
+Hi, I’m **Max Karltun** — a full-stack software engineer, UI builder, and creative technologist..
 
 I design and develop clean, intuitive digital experiences across web, mobile, data, and blockchain. My work blends modern interfaces with smart systems, focusing on performance, usability, and thoughtful product design.
 
