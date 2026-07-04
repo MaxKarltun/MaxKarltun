@@ -5,17 +5,6 @@ Hi, I’m **Max Karltun** — a full-stack software engineer, UI builder, and cr
 I design and develop clean, intuitive digital experiences across web, mobile, data, and blockchain. My work blends modern interfaces with smart systems, focusing on performance, usability, and thoughtful product design.
 
 
-## GitHub
-
-<p align="center">
-  reak-stats.demolab.com?user=MaxKarltun&theme=tokyonight" />
-</p>
-
-<p align="center">
-  username=MaxKarltun&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
-
 
 ## About me
 
