@@ -1,8 +1,5 @@
 # Max Karltun
 
-## 📄 Resume
-
-(https://github.com//MaxKarltun/MaxKarltun/blob/main/resume.pdf)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MaxKarltun/MaxKarltun/main/.github/images/preview2.png" alt="preview" />
