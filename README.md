@@ -74,6 +74,12 @@ Portfolio link: https://www.karltunmediamagic.com/portfolio.html
 ![CRUD](https://img.shields.io/badge/CRUD-2563EB?style=for-the-badge)
 ![RDBMS](https://img.shields.io/badge/RDBMS-1F2937?style=for-the-badge)
 
+## Data & Analytics
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
 ## API & Networking
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
