@@ -32,7 +32,7 @@ Portfolio link: https://www.karltunmediamagic.com/portfolio.html
 - **Data & Databases:** Python, PostgreSQL, MySQL, MongoDB, SQLite, Pandas, NumPy
 - **Design & Creative Tools:** Figma, Adobe Creative Suite, Blender, Three.js, WebGL
 - **Cloud & DevOps:** Docker, Vercel, Heroku, GitHub, Linux
-- **Blockchain & Emerging Tech:** Solidity, Ethereum, Bitcoin, Stellar, XRP
+- **Blockchain & Emerging Tech:**Aptos, SUI,  MOVE.
 
 ## What I work with
 
