@@ -32,7 +32,7 @@ Portfolio link: https://www.karltunmediamagic.com/portfolio.html
 - **Data & Databases:** Python, PostgreSQL, MySQL, MongoDB, SQLite, Pandas, NumPy
 - **Design & Creative Tools:** Figma, Adobe Creative Suite, Blender, Three.js, WebGL
 - **Cloud & DevOps:** Docker, Vercel, Heroku, GitHub, Linux
-- **Blockchain & Emerging Tech:**Aptos, SUI,  MOVE.
+- **Blockchain & Emerging Tech:** Aptos, Sui, Move.
 
 ## What I work with
 
@@ -63,8 +63,10 @@ Portfolio link: https://www.karltunmediamagic.com/portfolio.html
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+## Blockchain
 ![Aptos](https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white)
-![MOVE](https://img.shields.io/badge/MOVE-6E56CF?style=for-the-badge&logo=move&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
+![Move](https://img.shields.io/badge/Move-6E56CF?style=for-the-badge&logo=move&logoColor=white)
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
