@@ -4,8 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MaxKarltun/MaxKarltun/main/.github/images/preview2.png" alt="preview" />
 </p>
-
-Hi, I’m **Max Karltun** — a full-stack software engineer, UI builder, and creative technologist..
+ Welcome to my portfolio.
 
 
 
