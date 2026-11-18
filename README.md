@@ -131,6 +131,8 @@ Portfolio link: https://www.karltunmediamagic.com/portfolio.html
 
 ## GitHub Stats
 
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=MaxKarltun&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 Check out my portfolio and projects to see what I’m building next.
